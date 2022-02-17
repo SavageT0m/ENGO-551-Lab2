@@ -26,5 +26,3 @@ https://www.youtube.com/watch?v=nZaZ2dB6pow&start=11
 
 The following code was used as reference from a github user:
 https://github.com/samrknight12/project2
-
-A lot of inspiration and aid was taken from it.
